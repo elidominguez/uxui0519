@@ -20,4 +20,4 @@ topics:
 - [Business and Competitive Analysis](http://learn.ironhack.com/#/learning_unit/7032)
 
 ## Slides Deck
-- [1.2.1.2 - Business and Competitive Analysis](https://docs.google.com/presentation/d/1EMPublWOSS2MfzRhRsprWDQtbpyAT9yhV8HEdgtQBWo/edit#slide=id.g4123adfa1f_2_50)
+- [Business and Competitive Analysis](https://docs.google.com/presentation/d/1EMPublWOSS2MfzRhRsprWDQtbpyAT9yhV8HEdgtQBWo/edit#slide=id.g4123adfa1f_2_50)
