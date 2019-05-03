@@ -3,10 +3,10 @@ title: Local E-Commerce
 assigned: 5
 due: 10
 topics:
-- design-thinking
-- ia
-- navigation
-- prototyping
+  - design-thinking
+  - ia
+  - navigation
+  - prototyping
 ---
 
 ## Briefing
