@@ -7,7 +7,6 @@ topics:
 - ia
 - navigation
 - prototyping
-- 
 ---
 
 ## Briefing
